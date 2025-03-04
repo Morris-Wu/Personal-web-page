@@ -4,37 +4,37 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ie56icWRwlLen-jd17hh-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp; AI Agent&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ie56icWRwlLen-jd17hh-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp; AI Agent&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56icWRwlLen-jd17hh-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Perception&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;(感知系統)&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ie56icWRwlLen-jd17hh-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Perception&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;(感知系統)&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56icWRwlLen-jd17hh-3" value="Knowledge Base&lt;div&gt;(知識庫)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ie56icWRwlLen-jd17hh-3" value="Knowledge Base&lt;div&gt;(知識庫)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56icWRwlLen-jd17hh-4" value="Decision Making&lt;div&gt;(決策系統)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ie56icWRwlLen-jd17hh-4" value="Decision Making&lt;div&gt;(決策系統)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="800" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56icWRwlLen-jd17hh-5" value="Learning Module&lt;div&gt;(學習模組)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ie56icWRwlLen-jd17hh-5" value="Learning Module&lt;div&gt;(學習模組)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="800" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56icWRwlLen-jd17hh-6" value="Action Execution&amp;nbsp;&lt;div&gt;(行動執行)&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Ie56icWRwlLen-jd17hh-6" value="Action Execution&amp;nbsp;&lt;div&gt;(行動執行)&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="1000" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56icWRwlLen-jd17hh-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="Ie56icWRwlLen-jd17hh-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="477.5" y="587.5" width="95" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56icWRwlLen-jd17hh-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=0;rotation=90;flipH=0;flipV=1;" vertex="1" parent="1">
+        <mxCell id="Ie56icWRwlLen-jd17hh-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=0;rotation=90;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="268.83" y="588.75" width="95" height="87.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56icWRwlLen-jd17hh-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.71;dx=31.97;notch=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="Ie56icWRwlLen-jd17hh-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.71;dx=31.97;notch=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="509.76" y="751.04" width="59.84" height="39.36" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56icWRwlLen-jd17hh-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.71;dx=31.97;notch=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="Ie56icWRwlLen-jd17hh-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.71;dx=31.97;notch=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="270.08" y="751.04" width="59.84" height="39.36" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56icWRwlLen-jd17hh-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="Ie56icWRwlLen-jd17hh-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="376" y="835.5" width="90.5" height="238.5" as="geometry" />
         </mxCell>
       </root>
